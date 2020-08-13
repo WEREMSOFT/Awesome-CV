@@ -1,3 +1,3 @@
 cd examples
 xelatex coverletter.tex
-open coverletter.pdf
+# open coverletter.pdf
